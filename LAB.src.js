@@ -2,6 +2,8 @@
 // v1.0.2rc1 (c) Kyle Simpson
 // MIT License
 
+// Fork by David
+
 (function(global){
 	var sSTRING = "string",				// constants used for compression optimization
 		sHEAD = "head",
