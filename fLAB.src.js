@@ -2,7 +2,7 @@
 // v0.2 (c) Kyle Simpson
 // MIT License
 
-// Forked by David
+// Forked by David Semeria
 
 (function(global){
 	var orig_$LAB = global.$LAB,
