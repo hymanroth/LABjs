@@ -2,6 +2,8 @@
 // v0.2 (c) Kyle Simpson
 // MIT License
 
+// Fork by David
+
 (function(global){
 	var orig_$LAB = global.$LAB,
 		oDOC = global.document,
